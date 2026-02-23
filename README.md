@@ -1,3 +1,5 @@
+El proyecto de la constructora es una aplicación Full Stack completa. Se clasifica así porque integra tanto una interfaz de usuario interactiva (Frontend) como una lógica de servidor y manejo de datos (Backend) para gestionar la calculadora de inversión y el catálogo.
+
 🛠️ Tecnologías del Proyecto / Project Technologies
 Español
 Tipo: Aplicación Full Stack con arquitectura MVC (Modelo-Vista-Controlador).
